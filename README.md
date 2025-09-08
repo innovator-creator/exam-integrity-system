@@ -1,2 +1,2 @@
-# exam-integrity-system
-AI + Blockchain based Exam Integrity System for secure student and supervisor verification using biometrics and digital identity.
+# Exam Integrity System  
+This project is for building an exam monitoring and verification system.  
