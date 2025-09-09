@@ -1,0 +1,22 @@
+[
+  {
+    "staff_id": "SUP2025-001",
+    "name": "Abdul Sesay",
+    "role": "Supervisor",
+    "exam_center": "Center-001",
+    "contact": "+23270000001",
+    "biometric": {
+      "face_id": "hash_face_staff_001"
+    }
+  },
+  {
+    "staff_id": "REG2025-002",
+    "name": "Mary Koroma",
+    "role": "Registration Officer",
+    "exam_center": "Center-005",
+    "contact": "+23270000002",
+    "biometric": {
+      "face_id": "hash_face_staff_002"
+    }
+  }
+]
