@@ -1,0 +1,28 @@
+[
+  {
+    "student_id": "SHS2025-001",
+    "name": "Fatmata Kamara",
+    "school": "Magburaka Secondary School",
+    "faculty": "Science",
+    "department": "Physics",
+    "exam_center": "Center-001",
+    "subjects_today": ["Physics", "Mathematics"],
+    "biometric": {
+      "face_id": "hash_face_001",
+      "fingerprint": "hash_fp_001"
+    }
+  },
+  {
+    "student_id": "UNI2025-045",
+    "name": "Joseph Conteh",
+    "university": "University of Sierra Leone",
+    "faculty": "Engineering & Architecture",
+    "department": "Electrical & Electronics Engineering",
+    "exam_center": "Center-005",
+    "modules_today": ["Digital Systems", "Circuit Analysis"],
+    "biometric": {
+      "face_id": "hash_face_002",
+      "fingerprint": "hash_fp_002"
+    }
+  }
+]
